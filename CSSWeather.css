@@ -109,3 +109,17 @@ h1.temp {
     top: 0;
     left: 20px;
 }
+
+footer {
+    text-align: center;
+    background: #000000d0;
+    color: white;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    text-decoration: underline;
+}
